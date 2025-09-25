@@ -5,6 +5,8 @@ description: This resource contains building a scene representation from global 
 file: /courses/9-459-scene-understanding-symposium-spring-2006/7071e712650f4866d011ddd8fbcb98c7_900paper1.pdf
 file_size: 1061168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

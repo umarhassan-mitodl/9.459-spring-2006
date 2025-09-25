@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information about additional reading materials
   regarding the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

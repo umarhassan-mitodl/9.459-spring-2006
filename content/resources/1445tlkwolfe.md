@@ -5,6 +5,8 @@ description: This resource contains images on repeated search, memory search is 
 file: /courses/9-459-scene-understanding-symposium-spring-2006/dfacedf6ab6fbb93f23d07c6168c75e8_1445tlkwolfe.pdf
 file_size: 458508
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

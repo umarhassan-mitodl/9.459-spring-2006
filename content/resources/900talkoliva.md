@@ -6,6 +6,8 @@ description: This resource contains images on global to local scene representati
 file: /courses/9-459-scene-understanding-symposium-spring-2006/c1821a76c37a31f484601fc0ba66a4fd_900talkoliva.pdf
 file_size: 1343042
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
