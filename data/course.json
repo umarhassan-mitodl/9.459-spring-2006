@@ -32,6 +32,7 @@
     "website": "9-459-scene-understanding-symposium-spring-2006"
   },
   "course_title": "Scene Understanding Symposium",
+  "hide_download": true,
   "course_description": "What are the circuits, mechanisms and representations that permit the recognition of a visual scene from just one glance? In this one-day seminar on Scene Understanding, speakers from a variety of disciplines - neurophysiology, cognitive neuroscience, visual cognition, computational neuroscience and computer vision - will address a range of topics related to scene recognition, including natural image categorization, contextual effects on object recognition, and the role of attention in scene understanding and visual art. The goal is to encourage exchanges between researchers of all fields of brain sciences in the burgeoning field of scene understanding.\n",
   "department_numbers": [
     "9"
@@ -42,6 +43,7 @@
     "content": "c6010a1d-d972-2095-f188-6c60e438652d",
     "website": "9-459-scene-understanding-symposium-spring-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],

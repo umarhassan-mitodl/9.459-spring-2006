@@ -6,6 +6,8 @@ description: 'This resource contains quantitative framework for the ventral stre
 file: /courses/9-459-scene-understanding-symposium-spring-2006/0cbf8c72476d9e6962a247a164dafb55_920paper1.pdf
 file_size: 6373344
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
